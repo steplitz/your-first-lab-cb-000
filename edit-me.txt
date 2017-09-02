@@ -1,1 +1,6 @@
 hello
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> c1de23c3abdf94a4778adee461fef13e50a2602f
